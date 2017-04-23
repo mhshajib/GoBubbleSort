@@ -7,12 +7,20 @@ A Go program bubble sort example for beginner.
 git clone https://github.com/mhshajib/GoBubbleSort.git
 ```
 
-2. Compile
+2.Go to project directory
+
+```
+cd GoBubbleSort
+```
+
+3. Compile
+
 ```
 go build bubble.go
 ```
 
-3. Run
+4. Run
+
 ```
 ./bubble
 ```
