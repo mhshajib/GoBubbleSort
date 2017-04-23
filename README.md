@@ -1,5 +1,5 @@
 
-A Go program bubble sort example for beginner.
+Go bubble sort example for beginner.
 
 1. Clone
 
